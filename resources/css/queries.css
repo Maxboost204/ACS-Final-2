@@ -40,6 +40,9 @@
     
     .plan-price { font-size: 250%; }
     .contact-form { width: 80%; }
+    
+    .contactInfo { float:left; margin-top: 40px;margin-left: 27%;}
+    .contactList {margin-bottom: 10px}
 }
 
 
