@@ -572,7 +572,17 @@ footer p {
     margin-top: 20px;
 }
 
+.delma {
+    float: right;
+    color: #333333;
+    
+}
 
+.radanTech{
+    margin-top: 20px;
+    width: 65%;
+    border-radius: 5px;
+}
 
 
 /* ----------------------------------------------- */
