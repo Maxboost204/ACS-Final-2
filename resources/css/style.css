@@ -489,6 +489,17 @@ input[type=checkbox] {
     background-color: #ea5d5d;
 }
 
+.contactInfo {
+    list-style: none;
+    font-size: 85%;
+}
+
+.listInfo{
+    margin-bottom: 25px;
+    margin-top: 17px;
+}
+
+
 /* ----------------------------------------------- */
 /* FOOTER */
 /* ----------------------------------------------- */
@@ -592,6 +603,7 @@ footer p {
 .js--wp-1,
 .js--wp-2,
 .js--wp-3
+
 {
     opacity: 0;
     -webkit-animation-duration: 1s;
@@ -605,7 +617,8 @@ footer p {
 
 .js--wp-1.animated,
 .js--wp-2.animated,
-.js--wp-3.animated {
+.js--wp-3.animated
+ {
     opacity: 1;
 }
 

@@ -64,6 +64,7 @@ $(document).ready(function() {
     }, {
         offset: '50%'
     });
+      
     
     
     /* Mobile navigation */
